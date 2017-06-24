@@ -1,0 +1,15 @@
+# Site Settings
+title:  Jekyll
+email: rsbaghel100@gmail.com
+description: >
+  Getting started with Jekyll with a blog-website.
+baseurl: "/start/"
+url: "http://geekyrashri.github.io"
+twitter_username: 
+github_username:  geekyrajshri
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
